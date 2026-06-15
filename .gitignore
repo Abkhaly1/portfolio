@@ -1,0 +1,1 @@
+node_modules\n.pnp\n.next\nout\nbuild\n.env\n.env.local\n.DS_Store\n*.pem\nnpm-debug.log\n.vercel\n.idea\n.vscode
