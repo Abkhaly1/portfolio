@@ -1,0 +1,1 @@
+import type { Config } from 'tailwindcss'\n\nconst config: Config = {\n  content: [\n    './app/**/*.{js,ts,jsx,tsx,mdx}',\n    './components/**/*.{js,ts,jsx,tsx,mdx}',\n  ],\n  theme: {\n    extend: {\n      colors: {\n        primary: '#0f172a',\n        secondary: '#1e293b',\n        accent: '#3b82f6',\n      },\n    },\n  },\n  plugins: [],\n}\nexport default config
